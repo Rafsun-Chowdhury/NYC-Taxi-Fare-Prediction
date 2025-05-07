@@ -14,7 +14,6 @@ This project demonstrates the development of a multiple linear regression model 
 
 ## 📁 Files
 - `Automatidata project lab.py` – Main analysis and model building script
-- `Heart_Disease_Prediction.csv` – Dataset used in the project (uploaded)
 
 ---
 

@@ -11,6 +11,13 @@ This project demonstrates the development of a multiple linear regression model 
 - scikit-learn
 
 ---
+## 📂 Dataset
+
+This project uses NYC taxi fare data. Due to size limitations, the dataset may not be included here directly.
+
+- If working locally, place `taxi_fare_data.csv` in a `/data` folder.
+- Dataset source: [NYC TLC](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
 
 ## 📁 Files
 - `Automatidata project lab.py` – Main analysis and model building script

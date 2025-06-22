@@ -54,6 +54,15 @@ Includes residual plots and predicted vs. actual comparisons.
 git clone https://github.com/Rafsun-Chowdhury/Automatidata-project.git
 cd Automatidata-project
 
+## 👤 Author
+
+**Rafsun Chowdhury**  
+📧 Email: rafsunrf@gmail.com  
+🔗 [GitHub](https://github.com/Rafsun-Chowdhury)  
+🌐 [Portfolio](https://rafsun-chowdhury.github.io/portfolio/)  
+💼 [LinkedIn](https://www.linkedin.com/in/rafsun-chowdhury/)
+
+
 # Install dependencies
 pip install -r requirements.txt
 

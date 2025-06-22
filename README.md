@@ -1,51 +1,61 @@
-# NYC Taxi Fare Prediction – Automatidata Project
+# 🚕 NYC Taxi Fare Prediction – Automatidata Project
 
-This project demonstrates the development of a multiple linear regression model to predict taxi fares for New York City using data from the NYC Taxi and Limousine Commission (TLC). The goal is to improve fare estimation by analyzing historical ride data and optimizing predictive accuracy.
-
----
-
-## 📊 Tools & Libraries
-- Python
-- pandas, numpy
-- seaborn, matplotlib
-- scikit-learn
-
----
-## 📂 Dataset
-
-This project uses NYC taxi fare data. Due to size limitations, the dataset may not be included here directly.
-
-- Dataset source: [NYC TLC](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-
-
-## 📁 Files
-- `Automatidata project lab.py` – Main analysis and model building script
+This project demonstrates the development of a multiple linear regression model to predict taxi fares in New York City using historical trip data from the NYC Taxi and Limousine Commission (TLC). The objective is to improve fare estimation by analyzing time, distance, and traffic-related variables for better predictive accuracy.
 
 ---
 
-## 🚀 Key Features
-- Cleaned and processed time-series and numeric features.
-- Engineered variables such as trip duration, rush hour indicator, and pickup-dropoff pairings.
-- Detected and handled outliers in fare amount, duration, and distance.
-- Trained and evaluated a multiple linear regression model:
-  - Achieved strong performance (R², MAE, RMSE)
-  - Visualized residuals and predictions
+## 🛠️ Tools & Technologies
+- **Language:** Python  
+- **Libraries:** pandas, numpy, seaborn, matplotlib, scikit-learn  
+- **Environment:** Jupyter Notebook or Google Colab
 
 ---
 
-## 📈 Evaluation Metrics
-- R² score: ~0.84
-- MAE: ~$3.50
-- RMSE: ~$5.00
+## 📊 Dataset
+- **Source:** [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
+- Due to size constraints, the full dataset is not included in this repository.
 
 ---
 
-## 🧪 How to Run
-1. Clone the repo
-2. Install packages with `pip install -r requirements.txt`
-3. Run the notebook in Jupyter or Colab
+## 📁 Repository Structure
+- `Automatidata project lab.py` – Main script for data processing, feature engineering, model training, and evaluation
 
 ---
 
-## 🔗 Project Author
-Rafsun Chowdhury
+## 🔍 Key Features
+- Cleaned and processed numerical and time-based features
+- Engineered variables including:
+  - Trip duration
+  - Rush hour indicator
+  - Pickup-dropoff location pairs
+- Outlier detection and handling for:
+  - Fare amount
+  - Trip distance
+  - Duration
+- Trained and evaluated a **Multiple Linear Regression** model
+
+---
+
+## 📈 Model Evaluation
+| Metric | Value |
+|--------|-------|
+| R² Score | ~0.84 |
+| MAE      | ~$3.50 |
+| RMSE     | ~$5.00 |
+
+Includes residual plots and predicted vs. actual comparisons.
+
+---
+
+## ▶️ How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/Rafsun-Chowdhury/Automatidata-project.git
+cd Automatidata-project
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the notebook
+jupyter notebook

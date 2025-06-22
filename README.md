@@ -18,7 +18,7 @@ This project demonstrates the development of a multiple linear regression model 
 ---
 
 ## 📁 Repository Structure
-- `Automatidata project lab.py` – Main script for data processing, feature engineering, model training, and evaluation
+- `NYC_Taxi_Fare_Prediction.ipynb` – Main notebook for data processing, feature engineering, model training, and evaluation
 
 ---
 
@@ -37,6 +37,7 @@ This project demonstrates the development of a multiple linear regression model 
 ---
 
 ## 📈 Model Evaluation
+
 | Metric | Value |
 |--------|-------|
 | R² Score | ~0.84 |
@@ -59,6 +60,7 @@ pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook
+```
 
 ---
 
@@ -69,7 +71,3 @@ jupyter notebook
 🔗 [GitHub](https://github.com/Rafsun-Chowdhury)  
 🌐 [Portfolio](https://rafsun-chowdhury.github.io/portfolio/)  
 💼 [LinkedIn](https://www.linkedin.com/in/rafsun-chowdhury/)
-
-
----
-

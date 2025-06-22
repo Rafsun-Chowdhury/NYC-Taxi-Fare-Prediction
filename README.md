@@ -52,15 +52,15 @@ Includes residual plots and predicted vs. actual comparisons.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Rafsun-Chowdhury/Automatidata-project.git
-cd Automatidata-project
+git clone https://github.com/Rafsun-Chowdhury/NYC-Taxi-Fare-Prediction.git
+cd NYC-Taxi-Fare-Prediction
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the notebook
-jupyter notebook
-```
+jupyter notebook NYC_Taxi_Fare_Prediction.ipynb
+
 
 ---
 

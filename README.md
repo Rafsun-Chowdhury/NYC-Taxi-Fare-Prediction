@@ -18,7 +18,7 @@ This project demonstrates the development of a multiple linear regression model 
 ---
 
 ## 📁 Repository Structure
-- `NYC_Taxi_Fare_Prediction.ipynb` – Main notebook for data processing, feature engineering, model training, and evaluation
+- `NYC_Taxi_Fare_Prediction.ipynb` – Jupyter notebook for data cleaning, feature engineering, regression modeling, and result visualization
 
 ---
 

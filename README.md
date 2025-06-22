@@ -61,8 +61,6 @@ jupyter notebook
 
 ---
 
----
-
 ## 👤 Author
 
 **Rafsun Chowdhury**  
@@ -71,4 +69,6 @@ jupyter notebook
 🌐 [Portfolio](https://rafsun-chowdhury.github.io/portfolio/)  
 💼 [LinkedIn](https://www.linkedin.com/in/rafsun-chowdhury/)
 
+
+---
 

@@ -3,7 +3,7 @@
 
 This project uses multiple linear regression to predict NYC taxi fares based on trip distance and duration. It demonstrates data cleaning, feature engineering, modeling, and evaluation on a sample dataset.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rafsun-Chowdhury/NYC-Taxi-Fare-Prediction/blob/main/NYC_Taxi_Fare_Prediction_ColabReady.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rafsun-Chowdhury/NYC-Taxi-Fare-Prediction/blob/main/NYC_Taxi_Fare_Prediction.ipynb)
 
 ---
 

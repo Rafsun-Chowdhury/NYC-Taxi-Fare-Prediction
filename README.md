@@ -5,6 +5,7 @@ This project uses multiple linear regression to predict NYC taxi fares based on 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rafsun-Chowdhury/NYC-Taxi-Fare-Prediction/blob/main/NYC_Taxi_Fare_Prediction.ipynb)
 
+
 ---
 
 ## 📊 Tools & Technologies
